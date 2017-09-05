@@ -1,0 +1,15 @@
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\bin\Debug\BingSpeechApp.exe.config
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\bin\Debug\BingSpeechApp.exe
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\bin\Debug\BingSpeechApp.pdb
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\bin\Debug\SpeechClient.dll
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp.csprojResolveAssemblyReference.cache
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\MainWindow.g.cs
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\App.g.cs
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp_MarkupCompile.cache
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp_MarkupCompile.lref
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\MainWindow.baml
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp.g.resources
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp.Properties.Resources.resources
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp.csproj.GenerateResource.Cache
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp.exe
+C:\Users\jinanshshah\Desktop\congnative-azure\BingSpeechApp\BingSpeechApp\obj\Debug\BingSpeechApp.pdb
